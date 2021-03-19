@@ -27,7 +27,7 @@ httplib2==0.18.0
 idna==2.0
 ipython==2.4.1
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==2.11.3
 language-selector==0.1
 louis==2.6.4
 lxml==3.5.0
