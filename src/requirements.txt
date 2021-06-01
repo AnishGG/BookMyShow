@@ -65,7 +65,7 @@ ufw==0.35
 unattended-upgrades==0.1
 uncompyle6==2.9.10
 unpyclib==0.8.1
-urllib3==1.24.2
+urllib3==1.26.5
 usb-creator==0.3.0
 uWSGI==2.0.15
 virtualenv==15.0.1
